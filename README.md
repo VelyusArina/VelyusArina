@@ -1,6 +1,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VelyusArina&theme=transparent&show_icons=true)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VelyusArina&theme=transparent)
+
 <!--
 **VelyusArina/VelyusArina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
